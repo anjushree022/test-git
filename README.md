@@ -1,3 +1,3 @@
 # test-git
-First git repository
+First git repository.
 Author- Anjushree
